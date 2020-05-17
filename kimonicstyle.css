@@ -1,0 +1,26 @@
+
+
+header{
+	text-align: center;
+	color: white;
+}
+
+
+
+
+body{
+	flex-wrap: wrap;
+	background-image: url(MEDITATION.png);
+	font-family: sans-serif;
+	font-size: 40px;
+}
+
+.btn-primary{
+	position: relative; 
+	top:440px;
+	left:620px;
+}
+
+.btn-primary:hover{
+	background-color: black;
+}
